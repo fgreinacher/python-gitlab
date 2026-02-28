@@ -2,6 +2,22 @@
 
 All versions below are listed in reverse chronological order.
 
+## v8.1.0 (2026-02-28)
+
+### Bug Fixes
+
+- **types**: Add explicit submodule import for pyright compatibility
+  ([`84ad3fd`](https://github.com/python-gitlab/python-gitlab/commit/84ad3fd19cfbc236e962ac77c910571b0888c000))
+
+### Features
+
+- **api**: Add support for order_by filter in runner jobs
+  ([`d5dc73d`](https://github.com/python-gitlab/python-gitlab/commit/d5dc73d0f82a15d96a956c1d868c253c9586e1bf))
+
+- **api**: Add support for sort filter in runner jobs
+  ([`b117ee3`](https://github.com/python-gitlab/python-gitlab/commit/b117ee3d139f422e463ebeb5007517a2052af8a4))
+
+
 ## v8.0.0 (2026-01-28)
 
 ### Bug Fixes
